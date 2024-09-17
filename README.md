@@ -5,13 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshuman008&label=Profile%20views&color=0e75b6&style=flat" alt="anshuman008" /> </p>
 
-- 🔭 I’m currently working on **C and C++**
+- 🌐 New to Open Source
 
-- 🌱 I’m currently learning **java and C++**
+- 🌱 I’m currently learning WEB3
 
-- 💬 Ask me about **loops and functions**
-
-- 📫 How to reach me **anshuman.noida@gmail.com**
+- 📫 How to reach me **code.anshu@com**
 
 - ⚡ Fun fact **A shrimp's heart is in its head**
 
