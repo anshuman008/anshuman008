@@ -15,11 +15,11 @@
 
 <h2>Languages</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,go,bash,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,go,bash,python,cpp,c,dart)](https://skillicons.dev)
 
 <h2>Frameworks</h2>
   
-[![My Skills](https://skillicons.dev/icons?i=nestjs,express,fastapi,angular,react,nextjs,tailwindcss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express,flutter,electron,angular,react,nextjs,tailwindcss)](https://skillicons.dev)
 
 <h2>Databases</h2>
   
@@ -27,7 +27,7 @@
 
 <h2>Tools</h2>
  
-[![My Skills](https://skillicons.dev/icons?i=neovim,vim,git,docker,k8s,kafka,linux,githubactions)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=neovim,vim,git,docker,kafka,linux,githubactions)](https://skillicons.dev)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshuman008&show_icons=true&locale=en&layout=compact" alt="anshuman008" /></p>
 
